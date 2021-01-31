@@ -1,2 +1,3 @@
-# windows
-🍂 Personal Windows configuration files for setting up a dev environment.
+<p align="center">
+  <img src="https://media.giphy.com/media/tJdDsobvg1XpZvwBl4/giphy.gif"/>
+</p>
